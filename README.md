@@ -10,7 +10,8 @@ This dataset is based on <a href="https://en.wikipedia.org/wiki/Road_signs_in_Ja
 See also:<br>
 <a href="https://japandriverslicense.com/japanese-road-signs/">Japanese Road Signs</a>
 <br>
-<a href="https://english.jaf.or.jp/safe-driving/traffic-rules-in-japan">Driving a Motor Vehicle in Japan
+<a href="https://english.jaf.or.jp/safe-driving/traffic-rules-in-japan">Driving a Motor Vehicle in Japan</a>
+<br>
 <br>
 Train folder
 <img src ="./train_folder.png">
