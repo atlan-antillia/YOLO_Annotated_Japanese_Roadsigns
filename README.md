@@ -22,9 +22,7 @@ Valid folder
 
 
 <br>
-classes
-<br>
-<b>classname</b>
+<b>ClassNames</b>
 <pre>
 Bicycles_Only
 Bumpy_Road
