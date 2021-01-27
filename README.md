@@ -6,7 +6,7 @@ It contains 71 classes,and each image size is 224x224.
 
 <br>
 This dataset is created based on <a href="https://en.wikipedia.org/wiki/Road_signs_in_Japan" >Road signs in Japan</a>.
-The master images above are augmented by using ImageDataGenerator of Tensorflow-Keras.
+The master images are augmented by using ImageDataGenerator Tool of Tensorflow-Keras.
 <br>
 See also:<br>
 <a href="https://japandriverslicense.com/japanese-road-signs/">Japanese Road Signs</a>
